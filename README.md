@@ -7,4 +7,4 @@ Take-home Case Study for SoFi - Senior Analyst - Fraud Model Risk Management
 3. [solution](solution.md)
 
 ### Output
-Final results forthcoming... 
+[Solution](solution.pdf)
